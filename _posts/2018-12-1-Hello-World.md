@@ -1,6 +1,7 @@
 ---
 layout: post
 title: You're up and running!
+image: https://previews.123rf.com/images/luckeyman/luckeyman1510/luckeyman151000020/47222532-forrest-path-with-trees-in-the-middle-and-sun-rays.jpg
 published: true
 ---
 
