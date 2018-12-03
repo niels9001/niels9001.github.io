@@ -8,8 +8,12 @@ name: UWP things
 # Short bio or description (displayed in the header)
 description: Things
 
+title: this is my title
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+
+github:
+  is_project_page: false
 
 #
 # Flags below are optional
